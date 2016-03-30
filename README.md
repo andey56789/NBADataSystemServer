@@ -1,7 +1,7 @@
 # NBADataSystemServer
 Server for NBADataSystem
 
-Author:Sunfan from NanJin University
+Author:Sunfan from NanJing University
 Create date:  2016-03-30
 Content:
   -Source Code of Server of NBADataSystem
